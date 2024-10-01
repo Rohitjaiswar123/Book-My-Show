@@ -22,5 +22,4 @@ public class Payment extends BaseModel{
 
     @Enumerated(EnumType.ORDINAL)
     private PaymentStatus paymentStatus;
-
 }
